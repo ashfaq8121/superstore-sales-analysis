@@ -9,6 +9,9 @@ This project analyzes the Superstore dataset using Python for data analysis and 
 - Discounts' impact on profit
 - Order trends by Segment and Ship Mode
 
+##picture of dashboard
+`project-pic.png`
+
 ## 🛠️ Tools Used
 - Python (Pandas)
 - Power BI (.pbit template)
